@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing employee performance, compensation, and attrition at a fictional company (Technova) — built on a fully synthetic dataset generated with Python.
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/attrition-page.png)
 
 ## 🔍 Overview
 
