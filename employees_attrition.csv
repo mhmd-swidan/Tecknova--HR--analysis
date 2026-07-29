@@ -1,0 +1,175 @@
+attrition_id,employee_id,exit_date,reason,exit_type,years_at_company
+ATT00001,EMP0522,2026-03-27,Performance,Resigned,6
+ATT00002,EMP0738,2023-03-14,Performance,Resigned,2
+ATT00003,EMP0741,2025-08-30,Relocation,Terminated,1
+ATT00004,EMP0661,2021-03-07,Relocation,Terminated,9
+ATT00005,EMP0412,2025-08-10,Better Opportunity,Resigned,2
+ATT00006,EMP0679,2019-02-09,Relocation,Resigned,1
+ATT00007,EMP0627,2024-10-17,Career Change,Retired,9
+ATT00008,EMP0514,2020-04-16,Relocation,Terminated,3
+ATT00009,EMP0860,2019-02-15,Better Opportunity,Retired,4
+ATT00010,EMP0137,2024-03-20,Salary Issues,Retired,2
+ATT00011,EMP0812,2025-04-29,Better Opportunity,Resigned,11
+ATT00012,EMP0077,2026-02-20,Salary Issues,Retired,0
+ATT00013,EMP0637,2026-07-05,Personal Reasons,Resigned,1
+ATT00014,EMP0974,2022-12-19,Career Change,Resigned,7
+ATT00015,EMP0939,2026-05-14,Career Change,Resigned,3
+ATT00016,EMP0900,2014-03-20,Career Change,Terminated,2
+ATT00017,EMP0281,2014-10-23,Personal Reasons,Retired,0
+ATT00018,EMP0884,2020-11-01,Salary Issues,Terminated,2
+ATT00019,EMP0762,2025-10-10,Salary Issues,Resigned,7
+ATT00020,EMP0320,2023-05-19,Salary Issues,Resigned,6
+ATT00021,EMP0550,2025-07-03,Salary Issues,Resigned,7
+ATT00022,EMP0175,2024-02-08,Better Opportunity,Retired,3
+ATT00023,EMP0372,2023-03-21,Salary Issues,Terminated,6
+ATT00024,EMP0528,2024-07-27,Relocation,Resigned,1
+ATT00025,EMP0211,2020-10-10,Performance,Resigned,2
+ATT00026,EMP0236,2025-07-12,Performance,Terminated,11
+ATT00027,EMP0102,2024-09-10,Salary Issues,Retired,3
+ATT00028,EMP0987,2026-06-07,Relocation,Resigned,1
+ATT00029,EMP0903,2025-12-10,Relocation,Terminated,4
+ATT00030,EMP0948,2022-05-07,Personal Reasons,Terminated,8
+ATT00031,EMP0347,2019-03-01,Relocation,Retired,2
+ATT00032,EMP0140,2024-10-11,Better Opportunity,Retired,1
+ATT00033,EMP0622,2023-03-28,Personal Reasons,Resigned,3
+ATT00034,EMP0500,2017-02-16,Performance,Retired,1
+ATT00035,EMP0371,2023-12-25,Salary Issues,Retired,6
+ATT00036,EMP0199,2024-07-17,Personal Reasons,Terminated,8
+ATT00037,EMP0688,2024-01-01,Better Opportunity,Retired,1
+ATT00038,EMP0585,2023-06-05,Career Change,Terminated,3
+ATT00039,EMP0902,2025-11-28,Performance,Resigned,1
+ATT00040,EMP0060,2016-03-27,Performance,Resigned,3
+ATT00041,EMP0329,2020-10-23,Personal Reasons,Retired,0
+ATT00042,EMP0097,2019-04-10,Personal Reasons,Terminated,1
+ATT00043,EMP0313,2024-11-04,Better Opportunity,Resigned,12
+ATT00044,EMP0975,2020-01-15,Better Opportunity,Retired,3
+ATT00045,EMP0300,2024-10-05,Performance,Resigned,2
+ATT00046,EMP0278,2021-01-18,Salary Issues,Terminated,8
+ATT00047,EMP0925,2020-11-11,Relocation,Terminated,7
+ATT00048,EMP0602,2018-04-28,Better Opportunity,Retired,1
+ATT00049,EMP0440,2025-01-21,Personal Reasons,Resigned,4
+ATT00050,EMP0838,2026-04-12,Better Opportunity,Terminated,7
+ATT00051,EMP0571,2021-11-07,Salary Issues,Retired,9
+ATT00052,EMP0880,2014-11-13,Personal Reasons,Retired,1
+ATT00053,EMP0262,2025-03-04,Salary Issues,Resigned,11
+ATT00054,EMP0579,2023-05-13,Salary Issues,Terminated,1
+ATT00055,EMP0024,2026-02-09,Personal Reasons,Terminated,2
+ATT00056,EMP0031,2026-01-15,Better Opportunity,Terminated,4
+ATT00057,EMP0618,2025-12-30,Career Change,Resigned,1
+ATT00058,EMP0011,2025-06-25,Career Change,Resigned,2
+ATT00059,EMP0222,2022-10-17,Performance,Retired,0
+ATT00060,EMP0821,2024-07-06,Performance,Retired,11
+ATT00061,EMP0297,2023-05-31,Personal Reasons,Retired,4
+ATT00062,EMP0055,2025-12-04,Performance,Terminated,0
+ATT00063,EMP0543,2026-01-17,Salary Issues,Resigned,0
+ATT00064,EMP0210,2026-04-20,Better Opportunity,Retired,2
+ATT00065,EMP0605,2026-03-23,Personal Reasons,Resigned,1
+ATT00066,EMP0693,2022-04-10,Personal Reasons,Terminated,9
+ATT00067,EMP0663,2024-03-27,Career Change,Retired,10
+ATT00068,EMP0867,2019-02-06,Better Opportunity,Retired,5
+ATT00069,EMP0071,2024-02-29,Salary Issues,Terminated,6
+ATT00070,EMP0544,2023-10-26,Relocation,Terminated,6
+ATT00071,EMP0108,2025-09-29,Salary Issues,Resigned,13
+ATT00072,EMP0494,2022-06-15,Better Opportunity,Resigned,1
+ATT00073,EMP0591,2019-11-27,Career Change,Terminated,7
+ATT00074,EMP0742,2024-01-28,Career Change,Resigned,8
+ATT00075,EMP0293,2020-03-14,Relocation,Retired,7
+ATT00076,EMP0290,2023-02-28,Performance,Resigned,11
+ATT00077,EMP0653,2017-09-13,Relocation,Resigned,1
+ATT00078,EMP0040,2016-01-16,Better Opportunity,Retired,4
+ATT00079,EMP0590,2026-05-13,Better Opportunity,Retired,11
+ATT00080,EMP0308,2023-01-20,Salary Issues,Resigned,3
+ATT00081,EMP0680,2019-01-12,Personal Reasons,Resigned,1
+ATT00082,EMP0067,2022-10-16,Better Opportunity,Retired,10
+ATT00083,EMP0276,2025-08-24,Better Opportunity,Terminated,13
+ATT00084,EMP0068,2026-05-10,Relocation,Retired,7
+ATT00085,EMP0319,2023-05-02,Better Opportunity,Retired,2
+ATT00086,EMP0549,2019-01-09,Relocation,Resigned,5
+ATT00087,EMP0999,2023-08-25,Better Opportunity,Retired,7
+ATT00088,EMP0715,2017-12-16,Personal Reasons,Retired,3
+ATT00089,EMP0754,2023-09-03,Better Opportunity,Retired,6
+ATT00090,EMP0328,2025-06-03,Performance,Terminated,1
+ATT00091,EMP0383,2026-01-24,Better Opportunity,Retired,1
+ATT00092,EMP0452,2018-10-04,Salary Issues,Terminated,4
+ATT00093,EMP0523,2024-05-15,Performance,Retired,1
+ATT00094,EMP0219,2023-05-10,Personal Reasons,Terminated,0
+ATT00095,EMP0788,2016-09-25,Performance,Terminated,2
+ATT00096,EMP0437,2024-09-23,Better Opportunity,Terminated,2
+ATT00097,EMP0765,2017-10-05,Better Opportunity,Terminated,5
+ATT00098,EMP0089,2021-07-28,Performance,Resigned,7
+ATT00099,EMP0064,2026-01-23,Relocation,Retired,1
+ATT00100,EMP0827,2026-01-05,Salary Issues,Resigned,0
+ATT00101,EMP0717,2021-05-15,Relocation,Retired,8
+ATT00102,EMP0352,2025-05-21,Better Opportunity,Resigned,1
+ATT00103,EMP0937,2018-02-12,Relocation,Resigned,2
+ATT00104,EMP0257,2026-03-01,Relocation,Resigned,4
+ATT00105,EMP0636,2026-02-27,Better Opportunity,Retired,1
+ATT00106,EMP0645,2026-06-14,Relocation,Resigned,7
+ATT00107,EMP0555,2024-03-29,Better Opportunity,Resigned,1
+ATT00108,EMP0960,2020-06-13,Career Change,Resigned,6
+ATT00109,EMP0169,2022-03-02,Performance,Terminated,9
+ATT00110,EMP0918,2026-04-13,Salary Issues,Terminated,1
+ATT00111,EMP0529,2026-06-22,Personal Reasons,Resigned,4
+ATT00112,EMP0824,2022-10-11,Career Change,Retired,6
+ATT00113,EMP0986,2024-03-08,Relocation,Terminated,2
+ATT00114,EMP0817,2021-08-04,Personal Reasons,Resigned,8
+ATT00115,EMP0087,2022-04-23,Better Opportunity,Retired,5
+ATT00116,EMP0433,2024-11-19,Performance,Retired,2
+ATT00117,EMP0185,2015-07-01,Personal Reasons,Resigned,2
+ATT00118,EMP0979,2026-02-20,Career Change,Retired,1
+ATT00119,EMP0535,2015-12-03,Personal Reasons,Terminated,0
+ATT00120,EMP0295,2019-09-28,Relocation,Terminated,3
+ATT00121,EMP0893,2020-03-04,Personal Reasons,Retired,8
+ATT00122,EMP0426,2015-02-02,Relocation,Terminated,2
+ATT00123,EMP0714,2026-01-17,Performance,Resigned,7
+ATT00124,EMP0261,2018-08-29,Salary Issues,Retired,1
+ATT00125,EMP0238,2024-11-17,Career Change,Retired,0
+ATT00126,EMP0560,2025-11-19,Career Change,Resigned,0
+ATT00127,EMP0584,2026-01-16,Salary Issues,Resigned,1
+ATT00128,EMP0446,2025-09-07,Performance,Terminated,0
+ATT00129,EMP0868,2024-11-01,Personal Reasons,Retired,3
+ATT00130,EMP0801,2019-04-02,Better Opportunity,Retired,3
+ATT00131,EMP0600,2023-09-11,Performance,Terminated,3
+ATT00132,EMP0850,2016-07-14,Relocation,Resigned,4
+ATT00133,EMP0266,2022-04-08,Relocation,Resigned,2
+ATT00134,EMP0996,2021-03-02,Career Change,Terminated,3
+ATT00135,EMP0530,2026-02-05,Career Change,Resigned,1
+ATT00136,EMP0056,2022-03-31,Better Opportunity,Terminated,5
+ATT00137,EMP0121,2023-09-10,Personal Reasons,Terminated,10
+ATT00138,EMP0216,2025-03-13,Performance,Terminated,13
+ATT00139,EMP0026,2021-08-06,Salary Issues,Retired,4
+ATT00140,EMP0073,2021-08-07,Career Change,Resigned,3
+ATT00141,EMP0045,2025-01-03,Better Opportunity,Terminated,2
+ATT00142,EMP0248,2022-04-05,Performance,Resigned,10
+ATT00143,EMP0722,2026-06-10,Career Change,Retired,5
+ATT00144,EMP0282,2019-12-13,Personal Reasons,Resigned,0
+ATT00145,EMP0894,2025-09-15,Personal Reasons,Terminated,0
+ATT00146,EMP0915,2019-09-16,Performance,Resigned,2
+ATT00147,EMP0811,2023-07-31,Better Opportunity,Resigned,1
+ATT00148,EMP0245,2016-03-28,Better Opportunity,Retired,1
+ATT00149,EMP0823,2014-02-27,Performance,Retired,2
+ATT00150,EMP0322,2019-12-22,Relocation,Resigned,7
+ATT00151,EMP0644,2023-08-05,Performance,Terminated,8
+ATT00152,EMP0159,2026-06-14,Salary Issues,Terminated,0
+ATT00153,EMP0978,2026-06-21,Salary Issues,Terminated,0
+ATT00154,EMP0430,2020-11-17,Performance,Retired,2
+ATT00155,EMP0942,2022-10-22,Salary Issues,Resigned,3
+ATT00156,EMP0463,2021-10-19,Career Change,Resigned,8
+ATT00157,EMP0310,2022-07-24,Relocation,Terminated,2
+ATT00158,EMP0698,2019-07-22,Salary Issues,Retired,5
+ATT00159,EMP0061,2022-05-07,Better Opportunity,Resigned,1
+ATT00160,EMP0885,2024-09-09,Salary Issues,Resigned,1
+ATT00161,EMP0596,2025-11-18,Salary Issues,Retired,1
+ATT00162,EMP0768,2019-05-14,Better Opportunity,Retired,5
+ATT00163,EMP0650,2025-11-27,Personal Reasons,Retired,2
+ATT00164,EMP0651,2018-12-06,Relocation,Terminated,7
+ATT00165,EMP0866,2026-01-02,Career Change,Resigned,3
+ATT00166,EMP0669,2021-11-07,Personal Reasons,Resigned,0
+ATT00167,EMP0299,2021-04-22,Relocation,Terminated,4
+ATT00168,EMP0690,2020-02-02,Better Opportunity,Resigned,2
+ATT00169,EMP0315,2019-08-04,Performance,Retired,6
+ATT00170,EMP0311,2026-06-04,Performance,Retired,4
+ATT00171,EMP0362,2019-09-22,Performance,Resigned,5
+ATT00172,EMP0480,2024-07-22,Career Change,Retired,9
+ATT00173,EMP0111,2022-07-26,Salary Issues,Terminated,7
+ATT00174,EMP0990,2012-11-05,Salary Issues,Terminated,0
