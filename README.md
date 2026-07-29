@@ -62,6 +62,28 @@ The dataset follows a star-schema-like structure:
 - **Department**
 - **Location**
 - **Year**
+  
+## 📈 Business Insights
+
+- Managers receive nearly 2× the average salary of Entry Level employees.
+- Finance has the highest average salary increment (7.03%).
+- Better Opportunity is the leading attrition reason.
+- London shows the highest attrition rate (22%).
+- Average KPI scores remain relatively consistent across departments despite salary differences.
+
+  ## ✨ Features
+
+- Interactive slicers
+- Dynamic DAX measures
+- Cross-filtering
+- Custom Date Table
+- Star Schema data model
+- Synthetic dataset generated in Python
+
+  ## 🗃️ Data Model
+
+![Data Model](images/data-model.png)
+
 
 ## 🛠️ Tools Used
 
