@@ -128,7 +128,7 @@ All data in this project is **100% synthetic** and randomly generated for portfo
 
 Feel free to reach out with questions or feedback about this project.
 - LinkedIn: www.linkedin.com/in/mohamed-swidan-4901583a7
-- GitHub: ...
+
 
 ---
 ⭐ If you found this project useful, consider giving the repo a star!
